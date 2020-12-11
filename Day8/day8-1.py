@@ -35,4 +35,5 @@ def main():
     input = fetch_input()
     _, acc = detect_cycle(input)
     print(acc)
+
 main()

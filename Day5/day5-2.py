@@ -39,4 +39,5 @@ def main():
     for i in range (1, len(seats) - 1):
         if seats[i - 1] and not seats[i] and seats[i + 1]:
             print(i)
+
 main()

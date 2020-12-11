@@ -44,4 +44,5 @@ def main():
     subarray = find_contiguous_subarray_sum(bad_value, data)
     subarray.sort()
     print(subarray[0] + subarray[len(subarray) - 1])
+
 main()

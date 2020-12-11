@@ -37,4 +37,5 @@ def main():
         seat_id = row * 8 + col
         result = max(result, seat_id)
     print(result)
+
 main()

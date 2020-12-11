@@ -28,4 +28,5 @@ def main():
         if values_to_verify.issubset(set(keys)):
             count += 1
     print(count)
+
 main()
