@@ -1,7 +1,4 @@
-import pprint
 from copy import deepcopy
-printer = pprint.PrettyPrinter()
-
 
 def fetch_input():
     data = []
