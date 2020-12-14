@@ -45,4 +45,5 @@ def main():
     input = fetch_input()
     north, east = compute_north_east(input)
     print(cal_man_dist(north, east))
+
 main()
