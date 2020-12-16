@@ -1,0 +1,7 @@
+Extract common input reading functions to util class
+
+extract common regex function to util class
+
+makeDay.sh should have python files setup with importing re and helper class
+
+makeDay.sh should pull that day's input (but cache it in a file and don't do another pull if that file already exists)
