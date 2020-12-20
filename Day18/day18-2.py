@@ -4,7 +4,7 @@ sys.path.append("..")
 from input_reader import InputReader
 
 precedence = {
-    "+": 1,
+    "+": 2,
     "*": 1,
     "(": 0
 }
