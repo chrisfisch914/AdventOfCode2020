@@ -9,3 +9,5 @@ makeDay.sh should pull that day's input (but cache it in a file and don't do ano
 clean up day 16
 
 add linter to project
+
+export 2d array flpping and rotating from day 20 to seperate class
